@@ -42,7 +42,7 @@ A calming 3D **mini-aquarium** experience built with **React Three Fiber**, **Th
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/mini-aquarium.git
+git clone https://github.com/riki-k-dev/mini-aquarium.git
 
 # Navigate into the project folder
 cd mini-aquarium
